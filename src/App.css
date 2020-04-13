@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.App img {
+  width: 25vw;
+}
+
+.main {
+  display: flex;
+}
